@@ -8,8 +8,8 @@ permalink:        pretty
 title:            Tharun Prabhu
 tagline:          "Blog"
 description:      'This is my personal blog where I write about movies, technology, news and everything else that I have an opinion about'
-url:              https://tharunprabhu.github.io/blog/
-baseurl:          /blog/
+url:              https://tharunprabhu.github.io/
+baseurl:          /
 
 author:
   name:           'Tharun Prabhu'
