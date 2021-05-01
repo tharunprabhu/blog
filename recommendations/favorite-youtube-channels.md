@@ -36,5 +36,5 @@ News Channels:
   * [The New York Times](https://www.youtube.com/user/TheNewYorkTimes)
   * [WION](https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/)
 
-Vlog Style Channels:
+Vlog Channels:
   * [Karl Rock](https://www.youtube.com/channel/UCtfXgNnA-QcxjHJjk5wXLFg)
