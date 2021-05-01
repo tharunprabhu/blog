@@ -13,7 +13,7 @@ Things I do when I am Bored:
 
 [My IMDB](https://www.imdb.com/user/ur82934678/ratings)
 
-You can find a list of my favorite YouTube channels [here]({{ site.url }}/recommendations/favorite-youtube-channels.md).
+You can find a list of my favorite YouTube channels [here]({{ site.url }}recommendations/favorite-youtube-channels).
 
 You can find a list of my favorite directors and artists here.
 
