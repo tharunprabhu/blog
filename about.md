@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Hey there! I am Tharun Prabhu, a 22 year old from a not-so-small town called Vellore in southern India. I don't intend to use this blog as a second linkedIn page. So if you would like to know see my résumé, you're welcome to check out my [LinkedIn page](http://linkedin.com/tharunprabhu). I will use this space to write my thoughts on tech, politics, economics, movies, the dystopian future and anything else that interests me.
+Hey there! I am Tharun Prabhu, a 22 year old from a not-so-small town called Vellore in southern India. I don't intend to use this blog as a second linkedIn page. So if you would like to know see my résumé, you're welcome to check out my [LinkedIn page](http://linkedin.com/in/tharunprabhu). I will use this space to write my thoughts on tech, politics, economics, movies, the dystopian future and anything else that interests me.
 
 Things I do when I am Bored:
   * Watch TV or read a book. I may have lied about one of these two
